@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 24, 2020, 5:10:57 AM
+    Author     : Harsh
+*/
+
+body{
+     font-family: 'Roboto', sans-serif;
+}
+    .jumbotron{
+    margin-top:100px;
+    text-align: center;
+    margin-bottom: 195px;
+}
+footer{
+      background-color: #000;
+ color:#fff;
+ font-size:14px;
+ text-align: center;
+ padding-bottom: 10px;
+
+}
